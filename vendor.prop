@@ -94,7 +94,6 @@ camera.disable_zsl_mode=1
 # Data modules
 persist.vendor.data.iwlan.enable=true
 persist.vendor.data.mode=concurrent
-ro.telephony.iwlan_operation_mode=legacy
 
 # DPM
 persist.vendor.dpm.feature=1
