@@ -103,6 +103,9 @@ vendor/bin/init.qti.chg_policy.sh|6a983698aca9aae4f569f4aaf9a0f4a491770261
 vendor/etc/charger_fstab.qti|8464c139d93f05e86ff9c9d31b3e8617b8d9476e
 vendor/etc/init/vendor.qti.hardware.charger_monitor@1.0-service.rc|29b23be4f604282abf715f86aec9697175a9aaad
 
+# Charging daemon
+system/system/bin/charger:bin/chargeonlymode
+
 # CNE - from LA.UM.9.1.r1-09100-SMxxx0.0
 -vendor/app/CneApp/CneApp.apk|f90e9b497c0bd9328e8e63120615f2704489dbbc
 vendor/bin/cnd|7fb7ce5c611d088f1bea420234fdfa1bab72adea
