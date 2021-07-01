@@ -358,7 +358,6 @@ vendor/lib64/libqcbor.so|67acd94f3c7110c9419f0fd064b6eb69c09a0738
 vendor/lib64/libqtikeymaster4.so|9c45da4b7daa40d44592d94061858813e35473d0
 
 # Listen - from sweet
-vendor/lib/hw/sound_trigger.primary.sm6150.so|1881583353158f97196ae4f3c800f472734b0013
 vendor/lib/libadpcmdec.so|5232c32b93a8653612cd8fcdde161a9d7fe39c7f
 vendor/lib/librice.so|30f281ca3307bee5072c7b1eeea743b466af95ac
 vendor/lib/libsmwrapper.so|a3a0301b270e7bbf832fa6b7d9929400c057ee41
