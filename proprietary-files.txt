@@ -1,4 +1,4 @@
-# Common proprietary files - from toco MIUI V12.1.4.0.RFNMIXM package, unless pinned
+# Common proprietary files - from surya MIUI V12.0.1.0.RJGMIXM package, unless pinned
 
 # ADSP - from LA.UM.9.1.r1-09100-SMxxx0.0
 vendor/bin/adsprpcd|c8a45eb83a6d70dcbcc1b8ec574391b49e8ca8b9
