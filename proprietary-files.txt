@@ -821,4 +821,4 @@ vendor/lib64/libmm-hdcpmgr.so|5bd92cfe42803f4ccf3a123fd443d0ca6c5c1544
 vendor/lib64/libwfdhdcpcp.so|5b50a692dd4073a0b192f1f44d3ef909ebe74b5e
 
 # WLAN - Xiaomi MAC
-vendor/bin/nv_mac
+vendor/bin/nv_mac|292eab960355eae44a338b2011b0032bc7df422e
